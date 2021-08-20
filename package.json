@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "tdd": "mocha --watch"
+    "test": "mocha --recursive",
+    "tdd": "mocha --recursive --watch"
   },
   "author": "",
   "license": "ISC",
